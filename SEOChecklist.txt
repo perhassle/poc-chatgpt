@@ -1,0 +1,45 @@
+Här är en checklista för en SEO-expert som ska skapa en rapport för en kund:
+
+Nyckelordsanalys:
+a. Identifiera primära och sekundära nyckelord.
+b. Undersök konkurrenternas nyckelord.
+c. Analysera nyckelordens sökvolym och svårighetsgrad.
+
+Teknisk SEO:
+a. Kontrollera sidans hastighet och prestanda.
+b. Granska webbplatsens mobilanpassning.
+c. Säkerställ att webbplatsen har en SSL-certifikat (https).
+d. Kontrollera URL-strukturen och användarvänlighet.
+e. Undersök sidstruktur och interna länkar.
+f. Analysera robot.txt-fil och XML-sitemap.
+g. Granska 404-sidor och omdirigeringar.
+
+Innehållsanalys:
+a. Kontrollera att nyckelord används på ett naturligt sätt i texten.
+b. Se till att varje sida har unika och informativa titlar och metabeskrivningar.
+c. Undersök användningen av H1-H6 rubriker.
+d. Granska och optimera bildtexter och alt-attribut.
+e. Analysera innehållets kvalitet och relevans.
+
+Länkbyggnad:
+a. Granska inkommande och utgående länkar.
+b. Analysera ankartexter.
+c. Undersök konkurrenternas länkprofiler.
+d. Identifiera möjligheter för gästbloggande och PR.
+
+Lokal SEO (om relevant):
+a. Kontrollera företagets närvaro på Google My Business.
+b. Säkerställ att kontaktinformation är korrekt och konsekvent.
+c. Analysera användningen av lokala nyckelord.
+d. Granska kundrecensioner och betyg.
+
+Analys och mätning:
+a. Implementera och konfigurera Google Analytics och Google Search Console.
+b. Spåra sökordsrankningar och trafikmönster över tid.
+c. Kontrollera konverteringsmål och mäta ROI.
+
+Sociala medier och onlinenärvaro:
+a. Granska företagets närvaro på sociala medier och dess inverkan på SEO.
+b. Identifiera möjligheter att förbättra engagemang och räckvidd på sociala plattformar.
+
+Denna checklista täcker många av de viktigaste aspekterna inom SEO, men det är viktigt att komma ihåg att varje projekt är unikt och att denna lista kan behöva anpassas efter kundens specifika behov och mål.
